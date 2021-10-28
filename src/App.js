@@ -11,8 +11,7 @@ import {
 
 
 class App extends Component {
-  // apiKey = "use your api key";
-  apiKey = "33a313cc493e4590bc7ca77402743207";
+  apiKey = "use your api key";
   pageSize = "6";
 
   state = {
